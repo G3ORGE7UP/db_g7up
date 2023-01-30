@@ -1,0 +1,1 @@
+﻿exec add_Biblio 129233,'Irkutskaya','Lenina','Irkutsk'
